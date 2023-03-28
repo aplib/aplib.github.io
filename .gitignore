@@ -1,0 +1,5 @@
+*.rar
+*.bat
+*.dll
+.vs/
+.git/
