@@ -4,3 +4,5 @@ plugins:
 
 title: [Some aplib drafts]
 description: [Concepts and theses]
+repository_url: [https://github.com/aplib/aplib.github.io]
+discussion: [https://github.com/aplib/aplib.github.io/discussions/]

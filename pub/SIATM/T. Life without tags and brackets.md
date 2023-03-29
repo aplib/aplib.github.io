@@ -7,9 +7,7 @@ The exceptions are those languages that use indentation to denote constructs. Bu
 But life without parentheses is possible even in C++, Java, C# and other languages. Even in such strict and concise languages, you can improve the readability of the text.
 This moot point is not yet ready to be resolved for C++, but it is quite solvable for languages with tags.
 
-
 Example markup:
-
 
 ```
 <div>
@@ -36,7 +34,9 @@ Example markup:
 </div>
 ```
 
-For the markup of the above example, it is suggested SIATM markup:
+SIATM has two notations - strict and non-strict. In the non-strict format, it has a simpler syntax; in the strict format, markup characters are added. These two syntaxes are top-down compatible and their mutual transition can be automatic.
+
+For the markup of the above example, it is suggested non-strict SIATM markup:
 
 ![Suggjested 3](./pictures/sugg3.png)
 
