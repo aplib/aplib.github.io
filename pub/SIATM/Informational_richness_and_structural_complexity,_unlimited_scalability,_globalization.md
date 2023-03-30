@@ -8,7 +8,7 @@ Thus, it is possible to expand the structure of the document in an arbitrary pro
 A document can be information-rich, have layers, cuts, indexes, aspects, versions, states.
 This technical ability can be used for different applications and in different aspects - for documentation of different levels of complexity, for collaboration, to increase the functionality or usability of applications.
 
-In the basic schema, the complexity of fragment identification is based on the combination of the local uid (2^36) and the document guid (2^128). This makes it possible to uniquely identify document fragments on a global scale (total complexity 2^164).
+In the basic schema, the complexity of fragment identification is based on the combination of the local uid (2\^36) and the document guid (2\^128). This makes it possible to uniquely identify document fragments on a global scale (total complexity 2^164).
 And operate with composite information entities - indexes, collections, complexes, systems, views based on the database of documents using the necessary sections of documents.
 
 That is, we can talk about a global multidimensional information space, on a global scale and with detailing to a fragment of a document.
