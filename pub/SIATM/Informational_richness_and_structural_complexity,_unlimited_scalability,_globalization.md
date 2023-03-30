@@ -12,4 +12,4 @@ In the basic schema, the complexity of fragment identification is based on the c
 And operate with composite information entities - indexes, collections, complexes, systems, views based on the database of documents using the necessary sections of documents.
 
 That is, we can talk about a global multidimensional information space, on a global scale and with detailing to a fragment of a document.
-And this concept is different from today's concept of World Wide Web technology, but can be used as a basic mechanism for building it.
+And this concept is different from today's concept of World Wide Web technology, but can be used as a basic basic technology for building it.
