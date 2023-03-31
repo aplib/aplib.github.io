@@ -1,5 +1,5 @@
 
-# SIATM as a universal data storage and exchange format
+## SIATM as a universal data storage and exchange format
 
 SIATM is an overlay markup that encapsulates data and processing methods.
 These methods may be part of the built-in library, or one of the public ones, or even a combination of both.

@@ -1,5 +1,5 @@
 
-# Compositional capabilities
+## Compositional capabilities
 
 SIATM is a text overlay markup that has advanced capabilities for building a document structure and endowing markup elements with attributes and auxiliary data, as well as combining elements through semantic elements.
 

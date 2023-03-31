@@ -1,5 +1,5 @@
 
-# Informational richness and structural complexity of documents, unlimited scalability, globalization
+## Informational richness and structural complexity of documents, unlimited scalability, globalization
 
 In SIATM, each document fragment can be associated (in other words, bind) with an additional block containing arbitrary information. 
 This binding can be done by structural hierarchy, by strict reference, by name or algorithmically, by rules.

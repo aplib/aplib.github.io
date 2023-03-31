@@ -1,5 +1,5 @@
 
-# Life without tags and brackets
+## Life without tags and brackets
 
 Tags and brackets are commonly used to refer to programming language constructs, and today they represent a significant part of the source code.
 The exceptions are those languages that use indentation to denote constructs. But using indentation for this purpose has the disadvantage of making the code too sparse.
