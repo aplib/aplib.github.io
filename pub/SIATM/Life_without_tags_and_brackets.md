@@ -40,7 +40,7 @@ For the markup of the above example, it is suggested non-strict SIATM markup:
 
 ![Suggjested 3](./pictures/sugg3.png)
 
-(The dots represent block boundaries and can be replaced with color scheme)
+(It is not indentation-based syntax. The dots represent block boundaries and can be replaced with color scheme)
 
 As text markup built on a binary basis, it has many more features than HTML, including the composition of high-level components and graphical representations of markup blocks.
 And this is just one DSL out of many possible in document.
