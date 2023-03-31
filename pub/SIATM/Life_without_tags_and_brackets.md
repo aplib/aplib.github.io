@@ -36,7 +36,7 @@ Example markup:
 
 SIATM has two notations - strict and non-strict. In the non-strict format, it has a simpler syntax; in the strict format, markup characters are added. These two syntaxes are top-down compatible and their mutual transition can be automatic.
 
-For the markup of the above example, it is suggested non-strict SIATM markup:
+For the markup of the above example, it is suggested non-strict SIATM DSL markup:
 
 ![Suggjested 3](./pictures/sugg3.png)
 
