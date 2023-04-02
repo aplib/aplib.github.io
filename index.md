@@ -10,6 +10,9 @@ It is based on the concept of document primacy, everything as a document and doc
 are represented as documents, and all operations on these artifacts are performed through document manipulation.
 And the user works with the document in the form of its visual representations, controls, and with text, as necessary to solve specific problems.
 
+In this concept, of course, we mean not just a unary document, such as an XML file, a text document or a source code file, but the same document is an addressable information entity in a hierarchy of complexity,
+which itself is a complex object and system with a complex composition, aspects and variants, but also consists of a system with other entities.
+
 The SIATM model provides a unified approach and tool for the flexible and efficient management of complex data structures at all levels of software development,
  from building models and writing source code to creating databases, exchange protocols and building high-level user interfaces.
 
