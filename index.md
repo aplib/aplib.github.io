@@ -10,8 +10,12 @@ It is based on the concept of document primary, everything as a document and doc
 are represented as documents, and all operations on these artifacts are performed through document manipulation.
 And the user works with the document in the form of its visual representations, controls, and with text, as necessary to solve specific problems.
 
-The SIATM model provides a unified approach to managing complex data
-structures at all levels of software development, from building models and writing source code to creating databases, exchange protocols, and building high-level user interfaces.
-It also provides a powerful tool for managing complex data structures in a flexible and efficient way, which can be used in a wide variety of applications and contexts.
+The SIATM model provides a unified approach and tool for the flexible and efficient management of complex data structures at all levels of software development,
+ from building models and writing source code to creating databases, exchange protocols and building high-level user interfaces.
+
+ This project requires an organized approach for implementation, given its complexity and mathematical intricacies.
+ However, with the use of modern technologies, this is a very achievable and already partially developed project.
+ The project is open for participation.
+
 
 [Q&A, discussions](https://github.com/aplib/aplib.github.io/discussions/)
