@@ -17,7 +17,7 @@ There is a conceptual vision of the project and its place in the stack of existi
 
 The project requires an organized approach for implementation, given its complexity and mathematical intricacies.
 However, with the use of modern technologies, this is a very achievable and already partially developed project.
-It is proposed to implement a project on .NET Core, which is an open source framework for building modern high-performance applications.
+It is proposed to implement a multiplatform project on .NET Core, which is an open source framework for building modern high-performance applications.
 The project is open for participation, we invite interested parties to contact us for additional information and to join us in this exciting endeavor.
 
 [Home page](https://aplib.github.io/)
