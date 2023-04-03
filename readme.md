@@ -1,7 +1,7 @@
 
 ## SIATM (Structural Identification Algorithm Text Markup)
 
-This is a project of a universal compositional markup, a software platform, a document-oriented database and protocols, and the concept of a single working environment.
+This is a proposed project of a universal compositional markup, a software platform, a document-oriented database and protocols, and the concept of a single working environment.
 
 It is based on the concept of document primacy, everything as a document and document is everything, where all data, including code, models, and other artifacts,
 are represented as documents, and all operations on these artifacts are performed through document manipulation.
