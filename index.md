@@ -16,7 +16,9 @@ which itself is a complex object and system with a complex composition, aspects 
 The SIATM model provides a unified approach and tool for the flexible and efficient management of complex data structures at all levels of software development,
  from building models and writing source code to creating databases, exchange protocols and building high-level user interfaces.
 
-This project requires an organized approach for implementation, given its complexity and mathematical intricacies.
+There is a conceptual vision of the project and its place in the stack of existing technologies, there are many directions and concepts of end products for practical use, including proprietary solutions.
+
+The project requires an organized approach for implementation, given its complexity and mathematical intricacies.
 However, with the use of modern technologies, this is a very achievable and already partially developed project.
 It is proposed to implement a project on .NET Core, which is an open source framework for building modern high-performance applications.
 The project is open for participation, we invite interested parties to contact us for additional information and to join us in this exciting endeavor.
