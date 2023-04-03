@@ -21,4 +21,6 @@ However, with the use of modern technologies, this is a very achievable and alre
 It is proposed to implement a project on .NET Core, which is an open source framework for building modern high-performance applications.
 The project is open for participation, we invite interested parties to contact us for additional information and to join us in this exciting endeavor.
 
+[Home page](https://aplib.github.io/)
+
 [Q&A, discussions](https://github.com/aplib/aplib.github.io/discussions/)
