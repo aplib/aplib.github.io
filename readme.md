@@ -4,7 +4,7 @@
 This is a proposed project of a universal compositional markup, a software platform, a document-oriented database and protocols, and the concept of a single working environment.
 
 It is based on the concept of document primacy, everything as a document and document is everything, where all data, including code, models, and other artifacts,
-are represented as documents, and all operations on these artifacts are performed through document manipulation.
+are represented as documents, and all operations on these artifacts are performed through document manipulation documents and object models of these documents.
 And the user works with the document in the form of its visual representations, controls, and with text, as necessary to solve specific problems.
 
 In this concept, of course, we mean not just a unary document, such as an XML file, a text document or a source code file, but the same document is an addressable information entity in a hierarchy of complexity,
