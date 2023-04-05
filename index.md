@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## SIATM (Structural Identification Algorithm Text Markup)
+## SIATM
+### SIATM (Structural Identification Algorithm Text Markup)
 
 This is a proposed project of a universal compositional markup, a software platform, a document-oriented database and protocols, and the concept of a single working environment.
 
