@@ -19,6 +19,12 @@ The SIATM model provides a unified approach and tool for the flexible and effici
 
 There is a conceptual vision of the project and its place in the stack of existing technologies, there are many directions and concepts of end products for practical use, including proprietary solutions.
 
+On this website, I have put forth several introductory theses on the SIATM project and made the assumption that it is a fundamentally basic development that could potentially influence the approach to building applications and the World Wide Web.
+Please note that only a portion of the intended content is reflected here.
+I am trying to demonstrate the transformation of existing technologies in the context of new markup, adapting existing approaches.
+However, the markup allows expressing and manipulating problem-oriented abstractions that already exist but are currently represented by specialized implementations.
+That is, this is an area for further development and the evolution of approaches.
+
 The project requires an organized approach for implementation, given its complexity and mathematical intricacies.
 However, with the use of modern technologies, this is a very achievable and already partially developed project.
 It is proposed to implement a multiplatform project on .NET Core, which is an open source framework for building modern high-performance applications.
