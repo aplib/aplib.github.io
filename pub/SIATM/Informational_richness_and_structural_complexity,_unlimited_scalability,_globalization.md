@@ -1,9 +1,7 @@
 
 ## Informational richness and structural complexity of documents, unlimited scalability, globalization
 
-With SIATM:
-
-Each document fragment can be associated with an additional block containing arbitrary information. 
+With SIATM each document fragment can be associated with an additional block containing arbitrary information. 
 This binding can be done by structural hierarchy, by strict reference, by name or algorithmically, by rules.
 Thus, it is possible to expand the structure of the document in an arbitrary problem-oriented way, without violating the existing structure of the document or the logic of work.
 
