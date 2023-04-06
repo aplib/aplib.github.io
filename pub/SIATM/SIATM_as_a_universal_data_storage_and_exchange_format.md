@@ -1,12 +1,12 @@
 
 ## SIATM as a universal data storage and exchange format
 
-SIATM is an compositional markup that encapsulates data and processing methods.
-These methods may be part of the built-in library, or one of the public ones, or even a combination of both.
-To solve different problems, a different set of methods can be used, but since the main storage format is unified, this does not affect the integrity of the serialized object.
+SIATM is a compositional markup language that encapsulates both data and processing methods.
+These methods can be part of the built-in library, a public library, or a combination of both.
+To address different problems, developers can use a different set of methods and encodings. However, since the main storage format is unified, these changes do not affect the integrity of the serialized objects.
 
-Due to the globally addressable referencing of fragments, this markup supports a separate way of storing and processing parts.
-That is, data exchange can use partial images or diffs, separating, for example, data and metadata.
+Because fragments are referenced, this markup supports a separate way of storing and processing parts.
+That is, data exchange can use partial images or diffs, separating data and metadata.
 
 With this markup, it will be possible to operate with a vertically compatible hierarchy from a simple DSL serializer to a full-fledged model with a full description or even schemas.
 This will allow you to move to a higher level of data abstraction, from simple models to virtual models.

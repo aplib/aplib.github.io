@@ -1,5 +1,5 @@
 
-## Life without tags and brackets
+## Complete text markup without tags and brackets
 
 Tags and brackets are commonly used to refer to programming language constructs, and today they represent a significant part of the source code.
 The exceptions are those languages that use indentation to denote constructs. But using indentation for this purpose has the disadvantage of making the code too sparse.
@@ -40,7 +40,7 @@ For the markup of the above example, it is suggested non-strict SIATM DSL markup
 
 ![Suggjested 3](./pictures/sugg3.png)
 
-(It is not indentation-based syntax. The dots represent block boundaries and can be replaced with color scheme)
+(It is not indentation-based syntax. The dots represent block boundaries and can be replaced with color scheme. Block completion can be decorated.)
 
 As text markup built on a binary basis, it has many more features than HTML, including the composition of high-level components and graphical representations of markup blocks.
 And this is just one DSL out of many possible in document.
