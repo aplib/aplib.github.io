@@ -1,3 +1,9 @@
+---
+layout: default
+title: Universal Human-Computer Interaction Environment
+description: A single working environment concept
+---
+
 ## Universal Human-Computer Interaction Environment
 
 SIATM is applicable at all levels, from building models and writing source code, serialization and creating databases, exchange protocols,

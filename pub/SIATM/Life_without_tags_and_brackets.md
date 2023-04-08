@@ -1,3 +1,8 @@
+---
+layout: default
+title: Life without tags and brackets
+description: Complete text markup without tags and brackets
+---
 
 ## Complete text markup without tags and brackets
 

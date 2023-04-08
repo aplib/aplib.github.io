@@ -1,5 +1,10 @@
+---
+layout: default
+title: Visualization and interaction capabilities
+description: Visualization and interaction capabilities of document
+---
 
-## Visualization and interactive interaction capabilities of document
+## Visualization and interaction capabilities of document
 
 In-place view and edit controls, the visual markup of a document, dynamic user interfaces, is another area where you can take advantage of SIATM markup.
 

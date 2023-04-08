@@ -1,3 +1,8 @@
+---
+layout: default
+title: Informational richness and structural complexity of documents
+description: Possibilities of building complex documents when using SIATM
+---
 
 ## Informational richness and structural complexity of documents, unlimited scalability, globalization
 
