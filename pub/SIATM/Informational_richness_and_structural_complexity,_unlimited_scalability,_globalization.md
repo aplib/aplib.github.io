@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Informational richness and structural complexity of documents
+title: Informational richness
 description: Possibilities of building complex documents when using SIATM
 ---
 

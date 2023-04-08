@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SIATM project
-description: This is a proposed project of a universal compositional markup, a software platform, a document-oriented database and protocols, and the concept of a single working environment.
+description: A proposed project of a universal compositional markup, a software platform and the concept of a single working environment.
 ---
 
 ## SIATM (Structural Identification Algorithm Text Markup)

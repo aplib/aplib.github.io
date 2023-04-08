@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Compositional capabilities
-description: SIATM is a text compositional markup that has advanced capabilities for building a document structure and endowing markup elements with attributes and arbitrary data, as well as combining elements through additional links and relationships.
+description: SIATM is a text compositional markup that has advanced capabilities
 ---
 
 ## Compositional capabilities

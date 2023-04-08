@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SIATM as a universal data storage and exchange format
+title: Data storage and exchange format
 description: SIATM is offered as a universal data exchange and serialization format
 ---
 
