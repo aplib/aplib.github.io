@@ -1,35 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--	created with www.mysitemapgenerator.com	-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aplib.github.io/</loc>
-		<changefreq>daily</changefreq>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://aplib.github.io/pub/SIATM/Compositional_capabilities</loc>
-		<changefreq>monthly</changefreq>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://aplib.github.io/pub/SIATM/SIATM_as_a_universal_data_storage_and_exchange_format</loc>
-		<changefreq>monthly</changefreq>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://aplib.github.io/pub/SIATM/Informational_richness_and_structural_complexity,_unlimited_scalability,_globalization</loc>
-		<changefreq>monthly</changefreq>
-	</url>
-	<url>
-		<loc>https://aplib.github.io/pub/SIATM/Virtualized_data_models</loc>
-		<changefreq>monthly</changefreq>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://aplib.github.io/pub/SIATM/Life_without_tags_and_brackets</loc>
-		<changefreq>monthly</changefreq>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://aplib.github.io/pub/SIATM/Visualization_capabilities</loc>
-		<changefreq>monthly</changefreq>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://aplib.github.io/pub/SIATM/Universal_Human-Computer_Interaction_Environment</loc>
-		<changefreq>monthly</changefreq>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://aplib.github.io/pub/SIATM/Compositional_capabilities.html</loc>
+		<lastmod>2023-04-14T12:34:37+01:00</lastmod>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://aplib.github.io/pub/SIATM/SIATM_as_a_universal_data_storage_and_exchange_format.html</loc>
+		<lastmod>2023-04-14T12:34:40+01:00</lastmod>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://aplib.github.io/pub/SIATM/Informational_richness_and_structural_complexity,_unlimited_scalability,_globalization.html</loc>
+		<lastmod>2023-04-14T12:34:40+01:00</lastmod>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://aplib.github.io/pub/SIATM/Virtualized_data_models.html</loc>
+		<lastmod>2023-04-14T12:34:41+01:00</lastmod>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://aplib.github.io/pub/SIATM/Life_without_tags_and_brackets.html</loc>
+		<lastmod>2023-04-14T12:34:41+01:00</lastmod>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://aplib.github.io/pub/SIATM/Universal_Human-Computer_Interaction_Environment.html</loc>
+		<lastmod>2023-04-14T12:34:41+01:00</lastmod>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>https://aplib.github.io/pub/SIATM/Visualization_capabilities.html</loc>
+		<lastmod>2023-04-14T12:34:42+01:00</lastmod>
+		<priority>0.6</priority>
 	</url>
 </urlset>
